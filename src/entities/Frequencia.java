@@ -1,0 +1,10 @@
+package entities;
+
+public enum Frequencia {
+
+	SEDENTARIO,
+	LEVEMENTE_ATIVO,
+	MODERADAMENTE_ATIVO,
+	MUITO_ATIVO,
+	EXTREMAMENTE_ATIVO;
+}
