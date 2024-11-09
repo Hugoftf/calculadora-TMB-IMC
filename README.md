@@ -31,3 +31,8 @@
 >
 >
 ![Run as configuration](caminhoparamodulopath.png)
+
+### Criação do Projeto
+
+> Vá em File> New project > Others > JavaFx Projects
+![Criando projeto javafx](CaminhoDeCriacaoDeProjeto.png)
