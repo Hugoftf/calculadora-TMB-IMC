@@ -21,3 +21,4 @@
 ### Configurando o Caminho do SceneBuilder
 
 > Na sua de IDE (A que eu uso é a Eclipse) " Window > Preference > JavaFX: SceneBuilder executable: (O caminho dos arquivos para execução do scenebuilder).
+![Caminho de configuração do scenebuilder](caminholigarjavafxcomscenebuilder.png)
